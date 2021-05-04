@@ -16,10 +16,11 @@ C4 Model é um combinado de método (leve) e linguagem gráfica, concebidos por 
 
 O nome C4 vem dos quatro “níveis” de diagrama propostos pelo autor.
 
-Contexto
-Containers
-Componentes
-Classes/Código
+- Contexto
+- Containers
+- Componentes
+- Classes/Código
+
 Todos os níveis estão relacionados. O nível de Containers é derivado do Contexto; Componentes é derivado de Containers; Classes é derivado de Componentes.
 
 A construção dos diagramas conforme prescrito no C4 Model permite que você consiga ter uma linguagem consistente, em quatro níveis de detalhe, conforme a necessidade (e o stakeholder).
