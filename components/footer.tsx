@@ -17,7 +17,7 @@ const Footer = () => {
               Meu GitHub
             </a>
             <a
-              href="https://github.com/Digovia"
+              href="https://www.linkedin.com/in/rodrigofragaferreira"
               className="mx-3 bg-c_preto text-c_amarelo font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mb-6 lg:mb-0"
             >
               Meu Linkedin
