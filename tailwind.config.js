@@ -9,8 +9,10 @@ module.exports = {
         'accent-7': '#333',
         success: '#0070f3',
         cyan: '#79FFE1',
-        color_1: '#f5DF4D',
-        color_2: '#d35c78'
+        c_amarelo: '#FDE03A',
+        c_preto: '#242021',
+        c_cinza_2: '#413F40',
+        c_cinza: '#96959B '
       },
       spacing: {
         28: '7rem',

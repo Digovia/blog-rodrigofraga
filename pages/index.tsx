@@ -18,7 +18,7 @@ const Index = ({ allPosts }: Props) => {
     <>
       <Layout>
         <Head>
-          <title>🤖 Rodrigo Fraga Blog</title>
+          <title>Rodrigo Fraga Blog</title>
         </Head>
         <Container>     
           {morePosts.length > 0 && <MoreStories posts={morePosts} />}
