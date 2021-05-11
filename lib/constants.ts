@@ -1,4 +1,4 @@
 export const EXAMPLE_PATH = 'blog-starter-typescript'
-export const CMS_NAME = 'Markdown'
+export const CMS_NAME = 'Rodrigo Fraga Dev'
 export const HOME_OG_IMAGE_URL =
-  'https://og-image.vercel.app/Next.js%20Blog%20Starter%20Example.png?theme=light&md=1&fontSize=100px&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fnextjs-black-logo.svg'
+  'https://media-exp1.licdn.com/dms/image/C5603AQGJtxPW3SBzfQ/profile-displayphoto-shrink_100_100/0/1538649138862?e=1626307200&v=beta&t=4n3Q_fFN-WXDEZ6NfAGNDtXzbrW-QVq4-3uxt6rqhzg'
